@@ -646,7 +646,7 @@ footer {
     /*? about-me  */
 
     .about-me {
-        gap: 20px;
+        gap: 10px;
         height: 20vh;
     }
 
@@ -659,6 +659,7 @@ footer {
 
     .about-me .right {
         top: 0;
+        width: 200px;
     }
 
     .about-me .right h2 {
