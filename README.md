@@ -1,4 +1,2 @@
 # my-portfolio
- My software dev portfolio
-
- mahdia
+ My software dev portfolio!
