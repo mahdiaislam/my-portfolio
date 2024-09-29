@@ -651,7 +651,8 @@ footer {
     }
 
     .about-me .left {
-        height: 200px;
+        max-width: 400px;
+        height: auto;
         display: flex;
         align-items: center;
     }
